@@ -13,11 +13,11 @@ class Settings():
         self.ship_limit = 3
 
         # Параметры снаряда
-        self.bullet_speed = 7
+        self.bullet_speed = 15
         self.bullet_width = 15
         self.bullet_height = 5
         self.bullet_color = (30, 250, 30)
-        self.bullet_allowed = 5
+        self.bullet_allowed = 10
 
 
         self.virus_frequency = 0.01
